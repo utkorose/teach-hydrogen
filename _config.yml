@@ -1,0 +1,10 @@
+# Site settings
+title: Самоучитель по драм-машине Hydrogen
+email: your-email@domain.com
+description: "Самоучитель по свободной драм-машине Hydrogen"
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
