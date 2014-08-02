@@ -1,5 +1,5 @@
 ---
-title: Первое знакомство с программой
+title: Знакомство с программой
 author: Администратор Сайта
 layout: page
 easy_noindex_nofollow_index:
@@ -7,22 +7,21 @@ easy_noindex_nofollow_index:
 easy_noindex_nofollow_follow:
   - 0
 ---
-Перед тем, как запустить Hydrogen, выключите все плееры и прочие программы для работы с аудио (браузер можно оставить). И после запуска, во время работы с драм-машиной, так же лучше не запускать подобные приложения. Иначе вы можете обнаружить, что работает только одно из двух &#8212; либо плеер, либо Hydrogen. Причём на Windows это происходит не всегда и не везде.
+Рекомендую выключить все плееры и прочие программы для работы с аудио (браузер можно оставить). После запуска программы тоже лучше не запускать. Иначе вы можете обнаружить, что работает только одно из двух &#8212; либо плеер, либо Hydrogen. Лечится перезапуском программы.
 
-Итак, запускается Hydrogen. На Linux и Windows то, что при этом появляется на экране, различается. Перед вами открываются три окна.  
+Итак, запускается Hydrogen. Перед вами открываются два окна.  
 Сначала окно приветствия -  
-[<img title="" alt="" src="http://img-fotki.yandex.ru/get/4410/129199783.0/0_689e2_ad7932f8_L.jpg" width="500" height="293" border="0" />][1]
+<img title="" alt="" src="/img/znakomstvo01.jpg" width="500" height="293" border="0" />
 
-- на котором сообщаются основные характеристики и возможности программы. Окно закрываете. В Windows &#8212; по крайней мере, у меня &#8212; это окно открывается каждый раз, даже если нажать кнопку &#171;Спасибо, больше не надо это показывать&#187;. Возможно, это баг не программы, а операционной системы.
+- на котором сообщаются основные характеристики и возможности программы. Окно закрываете. 
 
-После того, как это окно закрыто, перед нами предстают главное окно программы, окно микшера &#8212; и, если вы запустили Hydrogen из под Windows, окно консоли. Выглядит это примерно вот так:  
-[<img title="" alt="" src="http://img-fotki.yandex.ru/get/5113/129199783.0/0_689e3_9908809f_L.jpg" width="500" height="293" border="0" />][2]
+Теперь перед вами главное окно программы. Иногда открыто окно микшера &#8212; и, если вы запустили Hydrogen из под Windows, окно консоли.Вот оно:
+<img title="" alt="" src="/img/znakomstvo002.jpg" width="500" height="252" border="0" />
 
-Начнём с окна консоли -  про него нужно знать только то, что не стоит его закрывать. Если его закрыть &#8212; ничего страшного не случится, просто-напросто закроется вся программа. При несохраннных данных это, конечно, будет не очень хорошо. В общем, вот это окно  
-[<img title="" alt="" src="http://img-fotki.yandex.ru/get/5307/129199783.0/0_68e05_6604dc3f_L.jpg" width="500" height="252" border="0" />][3]
+Не закрывайте окно консоли. Закроется вся программа.
 
-не стоит закрывать, лучше оставить его в покое. Теперь перейдём к главному окну программы. Вот, кстати, и оно.  
-[<img title="" alt="" src="http://img-fotki.yandex.ru/get/6508/129199783.1/0_8fba0_7c05337b_L.jpg" width="500" height="293" border="0" />][4]
+Теперь перейдём к главному окну программы. Вот, кстати, и оно.  
+[<img title="" alt="" src="/img/znakomstvo03.png" width="500" height="293" border="0" />][4]
 
 Итак, давайте посмотрим, что здесь есть.  
 Верхнее меню &#8212; стандартное :
@@ -86,14 +85,3 @@ easy_noindex_nofollow_follow:
 <p style="text-align: center;">
   << <a href="/samouchitel/work/install/">Предыдущая</a> -*- <a href="/samouchitel/work/">Работа с программой</a> -*- <a href="/samouchitel/work/ustanovka-bibliotek-udarnyx/">Следующая</a>>>
 </p>
-
- [1]: http://fotki.yandex.ru/users/teachhydrogen/view/428514/
- [2]: http://fotki.yandex.ru/users/teachhydrogen/view/428515/
- [3]: http://fotki.yandex.ru/users/teachhydrogen/view/429573/
- [4]: http://fotki.yandex.ru/users/teachhydrogen/view/588704/
- [5]: http://fotki.yandex.ru/users/teachhydrogen/view/551365/
- [6]: http://fotki.yandex.ru/users/teachhydrogen/view/551367/
- [7]: http://fotki.yandex.ru/users/teachhydrogen/view/551368/
- [8]: http://fotki.yandex.ru/users/teachhydrogen/view/551369/
- [9]: http://fotki.yandex.ru/users/teachhydrogen/view/468306/
- [10]: http://fotki.yandex.ru/users/teachhydrogen/view/468307/
